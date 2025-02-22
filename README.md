@@ -29,4 +29,5 @@ To draw the hysteresis curve of a specimen in the form of a transformer, the fol
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1| SNEHA KUMARI | STUDENT | INFORMATION TECHNOLOGY | RAJKIYA ENGINEERING COLLEGE BANADA | snehakumarihzb1@gmail.com
+1| Ayush Tripathi | STUDENT | INFORMATION TECHNOLOGY | RAJKIYA ENGINEERING COLLEGE BANADA | ayush18103@gmail.com
+2| Ravi Bhushan Pandey| STUDENT | INFORMATION TECHNOLOGY | RAJKIYA ENGINEERING COLLEGE BANADA | ravipandey2927@gmail.com
